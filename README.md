@@ -1,2 +1,2 @@
 # CMD-command
-These are a few bash cmd
+These are a few batch cmd
